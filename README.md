@@ -28,5 +28,5 @@ A Flask-based API application for answering general queries using an AI-powered 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/flask-query-agent.git
-   cd flask-query-agent
+   git clone https://github.com/nemwelamoro/General-Questions-AI-Agent-.git
+   cd General-Questions-AI-Agent
