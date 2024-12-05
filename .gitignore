@@ -7,3 +7,4 @@ env/
 # Python Cache Files
 __pycache__/
 *.pyc
+key.json
